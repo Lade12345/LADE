@@ -1,0 +1,27 @@
+/********************TAG SELECTOR********************/
+
+body{
+  background-color: #d8b1e3;
+}
+hr{
+  border-style:none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-width: 8px;
+  width: 5%;
+}
+/*
+h1{
+  font-style: italic;
+}
+*/
+img{
+  background-color: red;
+}
+h4{
+  font-size: 30px;
+}
+/********************CLASS SELECTOR********************/
+.lade{
+  font-style: italic;
+}
